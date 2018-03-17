@@ -1,0 +1,16 @@
+LogicNP.FolderViewControl.FolderView, LogicNP.FolderView, Version=13.0.0.0, Culture=neutral, PublicKeyToken=ff6f27194af4af75
+LogicNP.ShellObjects.ShellFileOperation, LogicNP.ShellObjects, Version=13.0.0.0, Culture=neutral, PublicKeyToken=ff6f27194af4af75
+LogicNP.ShellObjects.ShellAppBar, LogicNP.ShellObjects, Version=13.0.0.0, Culture=neutral, PublicKeyToken=ff6f27194af4af75
+LogicNP.ShellObjects.Resizer, LogicNP.ShellObjects, Version=13.0.0.0, Culture=neutral, PublicKeyToken=ff6f27194af4af75
+LogicNP.ShellObjects.ShellPopupNotification, LogicNP.ShellObjects, Version=13.0.0.0, Culture=neutral, PublicKeyToken=ff6f27194af4af75
+LogicNP.ShellObjects.TaskDialog, LogicNP.ShellObjects, Version=13.0.0.0, Culture=neutral, PublicKeyToken=ff6f27194af4af75
+LogicNP.ShComboBoxControl.ShComboBox, LogicNP.ShComboBox, Version=13.0.0.0, Culture=neutral, PublicKeyToken=ff6f27194af4af75
+LogicNP.ShellObjects.ShellLink, LogicNP.ShellObjects, Version=13.0.0.0, Culture=neutral, PublicKeyToken=ff6f27194af4af75
+DevExpress.XtraEditors.TileControl, DevExpress.XtraBars.v13.2, Version=13.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+LogicNP.ShellObjects.ShellUtils, LogicNP.ShellObjects, Version=13.0.0.0, Culture=neutral, PublicKeyToken=ff6f27194af4af75
+LogicNP.ShellObjects.PreviewPane, LogicNP.ShellObjects, Version=13.0.0.0, Culture=neutral, PublicKeyToken=ff6f27194af4af75
+LogicNP.ShellObjects.ShellTaskBar, LogicNP.ShellObjects, Version=13.0.0.0, Culture=neutral, PublicKeyToken=ff6f27194af4af75
+LogicNP.FileViewControl.FileView, LogicNP.FileView, Version=13.0.0.0, Culture=neutral, PublicKeyToken=ff6f27194af4af75
+LogicNP.ShellObjects.ShellProgressDialog, LogicNP.ShellObjects, Version=13.0.0.0, Culture=neutral, PublicKeyToken=ff6f27194af4af75
+LogicNP.ShellObjects.ShellNotifyIcon, LogicNP.ShellObjects, Version=13.0.0.0, Culture=neutral, PublicKeyToken=ff6f27194af4af75
+LogicNP.ShellObjects.SystemIdleTimer, LogicNP.ShellObjects, Version=13.0.0.0, Culture=neutral, PublicKeyToken=ff6f27194af4af75
